@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 164" fill="none">
+  <title>D.M. Maçonnerie</title>
+  <g fill="#463a34">
+    <path d="M50 29 83 3a7 7 0 0 1 9 0l77 58a7 7 0 0 1 3 6v46l-11-5V70L87 14 61 35Z"/>
+    <path d="M13 55 31 42l23 10v7H13Z"/>
+    <path d="M10 63h20v16H10zm24 0h31v16H34zm35 0h11v16H69zM10 83h37v16H10zm41 0h29v12l-22 4h-7zM10 103h20v16H10zm24 0h17l-4 9 9 7H34zM10 123h37v16H10zm41 0h33v16H51zm37 0h34v16H88zm38 6 31 5v5h-31zm35 6h11v4h-11zM10 143h20v16H10zm24 0h34v16H34zm38 0h34v16H72zm38 0h34v16h-34zm38 0h24v11a5 5 0 0 1-5 5h-19z"/>
+    <path d="M35 26c2-4 7-5 11-3l36 15c5 2 7 6 5 10s-6 6-11 4L39 37c-5-2-6-6-4-11Z"/>
+    <path d="M84 51c8 5 9 10 9 20v17l10 6-5 7-13-9V71c0-7-1-10-6-13Z"/>
+    <path d="M61 102 95 88c6-3 12-2 17 1l61 36c5 3 3 9-3 8l-104-17c-12-2-14-9-5-14Z"/>
+  </g>
+</svg>
