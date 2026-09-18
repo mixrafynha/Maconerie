@@ -11,7 +11,7 @@ import Contact from './pages/Contact.jsx';
 import NotFound from './pages/NotFound.jsx';
 import ScrollReveal from './components/ScrollReveal.jsx';
 
-function ScrollTop(){const {pathname}=useLocation();useEffect(()=>{window.scrollTo({top:0,behavior:'instant'});},[pathname]);return null}
+function ScrollTop(){const {pathname}=useLocation();useEffect(()=>{window.scrollTo({top:0,behavior:'auto'});},[pathname]);return null}
 export default function App(){return <><ScrollTop/><Navbar/><Routes>
   <Route path="/" element={<Home/>}/>
   <Route path="/services" element={<Services/>}/>
